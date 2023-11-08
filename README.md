@@ -79,7 +79,7 @@ Usa hifens e colons para definir a formatação da tabela.
 
 | **Cabeçalho 1** | **Cabeçalho 1** |
 | ----------------| ----------------|
-| Dado 1          | Dado 2          |
+| Dado 1          | Dado 24         |
 | Dado 3          | Dado 4          |
 
 
