@@ -74,7 +74,7 @@ print(f"A idade é{idade}")
 
 Tabelas:
 
-crie tabelas com barras verticais (|) para separar colunas.
+crie tabelas com barras verticais ( | ) para separar colunas.
 Usa hifens e colons para definir a formatação da tabela.
 
 | **Cabeçalho 1** | **Cabeçalho 1** |
