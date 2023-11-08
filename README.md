@@ -56,6 +56,21 @@ usa tres ou mais hifens (---) ou asteriscos (***) para criar uma linha horizonta
 ---
 
 
+Código: 
+
+Use crases (`) para inserir código inline.
+Use três crases (```) para criar blocos de código.
+
+use crases (\`) para inserir código `inline`.
+
+`print("Mostra uma mensagem") `
+
+```
+idade = 18
+print(f"A idade é{idade}")
+
+```
+
 
 
 
