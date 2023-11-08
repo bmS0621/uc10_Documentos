@@ -14,6 +14,7 @@ Lista não Ordenada posso utilizar (*,-,+)
 * item 3
 
 Lista Ordenada
+coloco o numero e o item.
 1. item 1
 2. item 2
 3. item 3
