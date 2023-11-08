@@ -107,6 +107,21 @@ A aula é com o Ricardo[^2].
 
 [^1]: rodapé: conteudo inferior do documento.
 [^2]: Ricardo: Professor da turma de git.
+
+
+**Alertas**
+
+> **note**
+> esta é uma nota
+
+> [!NOTE]
+> destaca informaçoes que o usuario devem levar em consideraçao, mesmo durante a leitura superficial.
+
+> [!IMPORTANT]
+> informaçoes cruciais necessarias para o sucesso dos usuarios.
+
+>[!WARNING]
+> conteudo critico que exige atencao imediata do usuario devido a riscos potenciais
   
 
 
