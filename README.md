@@ -7,13 +7,13 @@ Para especificar um titulo, usamos "hastag" -> #
 Aqui vai um parágrafo.
 
 
-Lista não Ordenada posso utilizar (*,-,+)
+**Lista não Ordenada posso utilizar (*,-,+)**
 
 * item 1
 * item 2
 * item 3
 
-Lista Ordenada
+**Lista Ordenada**
 
 coloco o numero e o item.
 1. item 1
@@ -31,7 +31,7 @@ Links:
 Links:
 [Site teste](https://gremio.net/)
 
-Imagem 
+**Imagem**
 
 ![Imagem](https://github.com/bmS0621/uc10_Documentos/blob/main/25231.png)
 
@@ -99,7 +99,7 @@ Exemplo:
 [Pagina 2](pagina.md)
 
 
-Notas de rodapé
+**Notas de rodapé:**
 
 Aqui é um exemplo  de marcação em rodapé[^1].
 
@@ -107,7 +107,7 @@ A aula é com o Ricardo[^2].
 
 [^1]: rodapé: conteudo inferior do documento.
 [^2]: Ricardo: Professor da turma de git.
-  Aqui uma outra linha.
+  
 
 
 
