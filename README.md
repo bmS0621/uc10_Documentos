@@ -35,3 +35,20 @@ Imagem
 
 ![Imagem](https://github.com/bmS0621/uc10_Documentos/blob/main/25231.png)
 
+
+Enfase:
+
+Itálico -> *texto em Itálico* ou _texto em Itálico_.
+
+Negrito -> **Texto em negrito** ou __Texto em negrito__
+
+Tachado -> ~~Texto em taxado~~
+
+Subscrito -> Aqui vai o texto em <sub> subscrito </sub>
+
+sobrescrito -> Aqui vai o texto em <sup> sobescrito </sup>
+
+
+
+
+
