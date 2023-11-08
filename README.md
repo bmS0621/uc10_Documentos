@@ -105,9 +105,9 @@ Aqui é um exemplo  de marcação em rodapé[^1].
 
 A aula é com o Ricardo[^2].
 
-[^1]: rodapé: conteudo inferior do documento
+[^1]: rodapé: conteudo inferior do documento.
 [^2]: Ricardo: Professor da turma de git.
-  Aqui uma outra linha
+  Aqui uma outra linha.
 
 
 
