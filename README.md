@@ -48,7 +48,15 @@ Subscrito -> Aqui vai o texto em <sub> subscrito </sub>
 
 sobrescrito -> Aqui vai o texto em <sup> sobescrito </sup>
 
-> isso é uma sitação em bloco
+
+> Isso é uma sitação em bloco.
+
+usa tres ou mais hifens (---) ou asteriscos (***) para criar uma linha horizontal.
+
+---
+
+
+
 
 
 
