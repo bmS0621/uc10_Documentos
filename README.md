@@ -40,7 +40,7 @@ Links:
 
 Itálico -> *texto em Itálico* ou _texto em Itálico_.
 
-Negrito -> **Texto em negrito** ou __Texto em negrito__
+Negrito -> **Texto em negrito** ou __Texto em negrito__ ou **CTRL + B**
 
 Tachado -> ~~Texto em taxado~~
 
